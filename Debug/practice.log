@@ -1,2 +1,4 @@
-﻿  Source.cpp
+﻿  Vector.cpp
+c:\users\user\source\repos\practice\practice\vector.cpp(338): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\practice\practice\vector.cpp(349): warning C4018: '<': signed/unsigned 不相符
   practice.vcxproj -> C:\Users\user\source\repos\practice\Debug\practice.exe
